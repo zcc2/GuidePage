@@ -1,8 +1,8 @@
-????????????   ?????Щ?????????п??  ??????
-1.???
+#####还是可以优化的   对于一些大图说明会有空格  之后优化<br>
+#1.使用
 =======
- /**
-     * ???????????
+    /**
+     * initGuide
      */
     private void initGuide() {
         showtips = new ShowTipsBuilder(MainActivity.this)
@@ -16,7 +16,7 @@
         showtipsType = showtips;
         showtips.setOnClickListener(this);
     }
-2.????
+#2.代码
 ========
     @SuppressLint("DrawAllocation")
 	@Override
@@ -53,6 +53,6 @@
 		canvas.drawBitmap(bitmap, 0, 0, new Paint());
 
 	}
-3.Ч??
+#3.效果
 =======
  ![](https://github.com/ZhangChangC/zcc2/GuidePage/raw/master/p1.jpg) 
