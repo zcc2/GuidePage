@@ -55,5 +55,7 @@
 	}
 3.Ð§¹û
 =============
- ![image](https://github.com/zcc2/GuidePage/raw/master/p1.jpg)
-  ![image](https://github.com/zcc2/GuidePage/raw/master/p2.jpg)
+  <div style = "float:center">
+    <img src="https://github.com/zcc2/GuidePage/raw/master/p1.jpg" width="240">
+    <img src="https://github.com/zcc2/GuidePage/raw/master/p2.jpg" width="240">
+<div/>
