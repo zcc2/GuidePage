@@ -1,5 +1,6 @@
-#####还是可以优化的   对于一些大图说明会有空格  之后优化<br>
-#1.使用
+还是可以优化的   对于一些大图说明会有空格  之后优化<br>
+1.使用
+=========
     /**
      * initGuide
      */
@@ -15,7 +16,8 @@
         showtipsType = showtips;
         showtips.setOnClickListener(this);
     }
-#2.代码
+2.代码
+========
     @SuppressLint("DrawAllocation")
 	@Override
 	protected void onDraw(Canvas canvas) {
@@ -51,6 +53,7 @@
 		canvas.drawBitmap(bitmap, 0, 0, new Paint());
 
 	}
-#3.效果
+3.效果
+=============
  ![image](https://github.com/zcc2/GuidePage/raw/master/p1.jpg)
   ![image](https://github.com/zcc2/GuidePage/raw/master/p2.jpg)
