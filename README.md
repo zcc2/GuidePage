@@ -55,4 +55,5 @@
 	}
 #3.Ð§¹û
 =======
- ![](https://github.com/ZhangChangC/zcc2/GuidePage/raw/master/p1.jpg) 
+ ![image](https://github.com/zcc2/GuidePage/raw/master/p1.jpg)
+  ![image](https://github.com/zcc2/GuidePage/raw/master/p1.jpg)
